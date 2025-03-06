@@ -1,0 +1,11 @@
+order_id,customer_id,order_date,total_amount,payment_method
+106,2,2024-12-01,326.65,"Debit Card"
+185,3,2024-11-26,139.73,"Debit Card"
+125,3,2024-09-07,254.13,"Debit Card"
+152,4,2024-09-30,288.68,PayPal
+172,4,2024-05-22,215.7,PayPal
+183,4,2024-12-30,181.54,PayPal
+187,7,2024-10-11,134.45,PayPal
+126,9,2024-09-10,458.36,"Debit Card"
+194,11,2024-04-13,421.94,"Debit Card"
+141,14,2025-02-13,182.63,"Debit Card"

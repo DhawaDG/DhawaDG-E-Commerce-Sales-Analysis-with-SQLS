@@ -1,0 +1,17 @@
+customer_id,payment_method,total_amount,bucket_spent_rank
+79,"Credit Card",513.711,1
+79,PayPal,511.62100000000004,1
+93,PayPal,484.58,1
+48,"Debit Card",475.04,1
+9,"Debit Card",458.36,1
+52,"Credit Card",457.73,1
+67,"Credit Card",447.31,1
+18,PayPal,431.86,1
+65,"Debit Card",428.33,1
+47,"Credit Card",424.23,1
+11,"Debit Card",421.94,1
+61,"Credit Card",408.08,1
+22,"Credit Card",403.64,1
+29,PayPal,397.84,1
+56,PayPal,397.32,1
+2,"Debit Card",395.2465,1

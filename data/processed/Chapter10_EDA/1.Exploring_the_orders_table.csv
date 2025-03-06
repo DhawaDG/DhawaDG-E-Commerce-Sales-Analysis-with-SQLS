@@ -1,0 +1,21 @@
+customer_id,order_id,name,count_of_order
+1,"no order","Shannon Conley",0
+2,106,"Melissa Armstrong",1
+2,145,"Melissa Armstrong",1
+3,125,"Todd Harris",1
+3,185,"Todd Harris",1
+4,152,"Teresa Mccann",1
+4,172,"Teresa Mccann",1
+4,183,"Teresa Mccann",1
+5,"no order","Adam Morton",0
+6,"no order","Cynthia Moreno",0
+7,135,"Heather Morton",1
+7,170,"Heather Morton",1
+7,187,"Heather Morton",1
+8,"no order","Matthew Hernandez",0
+9,126,"David Gomez Jr.",1
+9,132,"David Gomez Jr.",1
+10,"no order","Martha Spence",0
+11,194,"Kelly Ford",1
+12,"no order","Michael Gutierrez",0
+13,150,"Brittany Martin",1

@@ -1,0 +1,134 @@
+customer_id,order_id,name,city,order_date,total_amount,payment_method,total_purchases_by_customers
+1,"No order","Shannon Conley","Port Jamiestad","No order","No order","No order","No order"
+2,106,"Melissa Armstrong","Port Jamesport",2024-12-01,395.2465,"Debit Card",395.25
+2,145,"Melissa Armstrong","Port Jamesport",2024-12-07,393.26,"Credit Card",393.26
+3,125,"Todd Harris","Lake Isabellamouth",2024-09-07,254.13,"Debit Card",254.13
+3,185,"Todd Harris","Lake Isabellamouth",2024-11-26,169.07330000000002,"Debit Card",169.07
+4,152,"Teresa Mccann",Millsbury,2024-09-30,288.68,PayPal,288.68
+4,172,"Teresa Mccann",Millsbury,2024-05-22,260.997,PayPal,261
+4,183,"Teresa Mccann",Millsbury,2024-12-30,219.66340000000002,PayPal,219.66
+5,"No order","Adam Morton","Port Johnbury","No order","No order","No order","No order"
+6,"No order","Cynthia Moreno",Ellisland,"No order","No order","No order","No order"
+7,135,"Heather Morton",Shieldsview,2024-05-31,245.685,"Credit Card",245.68
+7,170,"Heather Morton",Shieldsview,2024-05-04,317.38,"Credit Card",317.38
+7,187,"Heather Morton",Shieldsview,2024-10-11,162.6845,PayPal,162.68
+8,"No order","Matthew Hernandez",Garyfurt,"No order","No order","No order","No order"
+9,126,"David Gomez Jr.","New Jasonton",2024-09-10,458.36,"Debit Card",458.36
+9,132,"David Gomez Jr.","New Jasonton",2024-12-08,79.46070000000002,"Credit Card",79.46
+10,"No order","Martha Spence",Butlershire,"No order","No order","No order","No order"
+11,194,"Kelly Ford","New Andrewfort",2024-04-13,421.94,"Debit Card",421.94
+12,"No order","Michael Gutierrez","New Sherimouth","No order","No order","No order","No order"
+13,150,"Brittany Martin",Donaldsonfurt,2025-02-22,297.76,"Credit Card",297.76
+14,141,"Tracey Mccoy",Brownport,2025-02-13,182.63,"Debit Card",182.63
+15,198,"Cynthia Sutton DVM",Powersberg,2024-11-03,215.15,"Debit Card",215.15
+16,104,"Erik Ellison","Port Johnhaven",2024-10-06,121.79,PayPal,121.79
+17,148,"Matthew Walton",Danielburgh,2024-02-26,194.54,"Debit Card",194.54
+18,102,"Justin Ruiz",Hernandezview,2024-02-28,431.86,PayPal,431.86
+19,163,"Maria Freeman DDS","Port Evan",2024-12-02,358.45,"Credit Card",358.45
+20,"No order","James Weiss",Morrisonborough,"No order","No order","No order","No order"
+21,116,"Jose Simon","West James",2025-02-18,78.5411,PayPal,78.54
+21,142,"Jose Simon","West James",2024-12-30,178.71,PayPal,178.71
+22,149,"Margaret Ross",Rachelmouth,2024-10-15,131.8779,PayPal,131.88
+22,169,"Margaret Ross",Rachelmouth,2024-09-20,403.64,"Credit Card",403.64
+22,189,"Margaret Ross",Rachelmouth,2024-06-05,332.58,"Debit Card",332.58
+23,"No order","Kristy Stewart","South Mark","No order","No order","No order","No order"
+24,193,"Aaron Woods","Lake Jamestown",2024-08-25,218.51,PayPal,218.51
+25,186,"Nancy Jones","New Alexandraland",2024-04-19,128.46,"Credit Card",128.46
+26,"No order","Kristen Wang","West Cheryl","No order","No order","No order","No order"
+27,124,"Guy Shaw","East Michellefurt",2024-04-05,249.68,"Debit Card",249.68
+27,161,"Guy Shaw","East Michellefurt",2024-11-27,215.12590000000003,"Debit Card",215.13
+28,"No order","Oscar Smith","New Jamie","No order","No order","No order","No order"
+29,128,"Evan Wilson","East Aaronfurt",2024-04-11,397.84,PayPal,397.84
+29,140,"Evan Wilson","East Aaronfurt",2024-07-08,184.90010000000004,"Debit Card",184.9
+30,192,"Jennifer Smith",Tiffanystad,2025-01-29,279.72,PayPal,279.72
+31,151,"Danielle Bass","South Gregorytown",2024-11-20,303.79,"Credit Card",303.79
+32,"No order","Ray Hammond","North Elizabeth","No order","No order","No order","No order"
+33,"No order","John Adams",Perrytown,"No order","No order","No order","No order"
+34,"No order","Brandy Woods","North Matthewport","No order","No order","No order","No order"
+35,173,"Helen Diaz","Lake Johnburgh",2024-09-27,214.17,"Debit Card",214.17
+36,"No order","Julia Brown","Port Travis","No order","No order","No order","No order"
+37,195,"William Richard",Wendyfurt,2025-02-13,203.99,"Debit Card",203.99
+38,"No order","William Wilson",Camposview,"No order","No order","No order","No order"
+39,"No order","William Smith","West Gail","No order","No order","No order","No order"
+40,133,"Michael Nelson",Jefferyhaven,2024-08-19,200.70270000000005,"Credit Card",200.7
+40,190,"Michael Nelson",Jefferyhaven,2024-10-12,386.73,"Credit Card",386.73
+41,143,"Brad Bishop","Port Arthur",2024-12-15,221.18,"Credit Card",221.18
+42,119,"Chad Turner","East Stephanie",2024-08-30,275.8,"Debit Card",275.8
+43,"No order","Christine Garcia","South Andrew","No order","No order","No order","No order"
+44,115,"Jordan Roberts","New Jonathan",2024-12-31,334.24,PayPal,334.24
+45,144,"Steven Harris",Silvatown,2024-08-07,260.23470000000003,PayPal,260.23
+45,196,"Steven Harris",Silvatown,2025-01-12,280,"Credit Card",280
+46,158,"Joseph Barrett","South Haleyview",2024-05-16,107.51,"Debit Card",107.51
+47,112,"Michael Lara","Port Sarah",2024-07-23,135.3143,"Credit Card",135.31
+47,162,"Michael Lara","Port Sarah",2024-09-09,424.23,"Credit Card",424.23
+47,181,"Michael Lara","Port Sarah",2025-02-22,163.45890000000003,"Credit Card",163.46
+48,180,"Joanne Austin","East Amy",2025-01-09,475.04,"Debit Card",475.04
+49,122,"Julie Davis","Port Lorimouth",2024-06-16,172.28,"Credit Card",172.28
+50,127,"Christopher Lowery","East Valerie",2024-08-29,111.22,PayPal,111.22
+51,139,"Jason Myers","New Matthew",2024-12-21,159.4659,"Credit Card",159.47
+51,191,"Jason Myers","New Matthew",2025-02-01,151.05,PayPal,151.05
+52,157,"Carla Carlson","New George",2024-10-25,457.73,"Credit Card",457.73
+52,166,"Carla Carlson","New George",2024-12-19,175.36530000000005,"Debit Card",175.37
+53,156,"Lynn Reese","South Ryan",2024-06-21,293.41,"Debit Card",293.41
+54,153,"Joseph Molina","North Katelyn",2024-03-29,332.93,"Debit Card",332.93
+55,130,"Erica Howe","New Juliaton",2024-03-10,174.58,PayPal,174.58
+56,105,"Christina Duncan","New Arianahaven",2024-06-23,300.96330000000006,"Credit Card",300.96
+56,168,"Christina Duncan","New Arianahaven",2024-06-15,397.32,PayPal,397.32
+57,155,"Troy Martinez","West Jeffton",2024-10-13,65.9813,"Debit Card",65.98
+57,179,"Troy Martinez","West Jeffton",2024-11-24,161.39,PayPal,161.39
+57,200,"Troy Martinez","West Jeffton",2024-11-05,93.39990000000002,"Credit Card",93.4
+58,"No order","Deborah Hill","West Jessica","No order","No order","No order","No order"
+59,103,"Kathy King","New Latasha",2024-12-09,330.4,"Debit Card",330.4
+60,114,"Glenn Miller","West Cassandra",2024-11-28,372.35,PayPal,372.35
+61,107,"Lynn Barrett","South Douglasfurt",2024-12-07,408.08,"Credit Card",408.08
+62,176,"Cynthia Young","East Lauren",2024-04-11,90.6,PayPal,90.6
+63,131,"Jennifer Thornton",Christopherchester,2025-02-04,289.44,"Debit Card",289.44
+63,182,"Jennifer Thornton",Christopherchester,2024-11-29,122.05270000000002,"Debit Card",122.05
+64,120,"Jacob Sims",Carterfort,2024-09-28,72.81780000000002,"Debit Card",72.82
+64,138,"Jacob Sims",Carterfort,2024-11-21,366.63,"Credit Card",366.63
+65,137,"Frank Benton","Port Jacqueline",2024-11-02,428.33,"Debit Card",428.33
+66,"No order","Tamara Hayes","New Christophermouth","No order","No order","No order","No order"
+67,164,"Steven Edwards","West Ruth",2024-06-21,447.31,"Credit Card",447.31
+68,101,"Kristopher Stone",Jillchester,2024-06-03,348.98,"Credit Card",348.98
+68,197,"Kristopher Stone",Jillchester,2024-10-11,154.95260000000002,"Debit Card",154.95
+69,"No order","Gloria Howard",Darlenetown,"No order","No order","No order","No order"
+70,"No order","Kimberly Mason",Hoffmanport,"No order","No order","No order","No order"
+71,121,"Jacqueline Taylor",Melissabury,2024-06-22,379.22,PayPal,379.22
+72,117,"Jeffrey Salazar",Gregoryborough,2024-06-04,290.36370000000005,"Debit Card",290.36
+72,174,"Jeffrey Salazar",Gregoryborough,2024-04-08,288.43,"Credit Card",288.43
+73,165,"Amber Parker",Melissaborough,2024-11-18,141.79,PayPal,141.79
+74,"No order","Tonya Williams",Aaronmouth,"No order","No order","No order","No order"
+75,118,"Haley Simmons","East David",2024-07-20,196.14,"Debit Card",196.14
+76,178,"Karen Walton","Lake Katelyn",2025-01-07,285.08,PayPal,285.08
+77,110,"Leslie Hurley",Stephanieville,2024-07-21,331.33430000000004,PayPal,331.33
+77,134,"Leslie Hurley",Stephanieville,2024-12-26,312.16,"Credit Card",312.16
+77,160,"Leslie Hurley",Stephanieville,2025-01-17,317.16,"Credit Card",317.16
+78,"No order","Gabrielle Dickson","New Joshua","No order","No order","No order","No order"
+79,175,"Nathan Moore",Karenmouth,2024-07-22,511.62100000000004,PayPal,511.62
+79,188,"Nathan Moore",Karenmouth,2024-04-21,513.711,"Credit Card",513.71
+80,"No order","Rachel Pierce",Alexanderside,"No order","No order","No order","No order"
+81,113,"Thomas Davidson",Joseburgh,2024-07-30,234.53,"Credit Card",234.53
+81,147,"Thomas Davidson",Joseburgh,2024-12-16,67.92940000000002,"Debit Card",67.93
+82,108,"Gina Nelson","North Carmen",2025-02-25,312.95,"Credit Card",312.95
+83,111,"Elijah Ortiz","West Hannah",2024-09-29,347.85,"Debit Card",347.85
+84,"No order","Anna Henry","Port Aaron","No order","No order","No order","No order"
+85,136,"Wendy Roman","South Rebecca",2024-12-10,251.15,PayPal,251.15
+86,146,"Barbara Garrett","New Williamport",2024-09-06,206.45020000000002,"Credit Card",206.45
+86,167,"Barbara Garrett","New Williamport",2024-07-26,304.96,PayPal,304.96
+87,"No order","Michelle Hebert","East Olivia","No order","No order","No order","No order"
+88,154,"Keith Hernandez","West Jonathan",2025-02-23,92.52870000000001,"Debit Card",92.53
+88,171,"Keith Hernandez","West Jonathan",2024-10-27,386.66,PayPal,386.66
+89,199,"Nathaniel Snow","North Paige",2024-03-30,225.1,PayPal,225.1
+90,"No order","Lori Beard","Port Annette","No order","No order","No order","No order"
+91,129,"Michael Robles","East James",2024-11-30,366.92,PayPal,366.92
+92,"No order","David Sanchez","Lake Dariusstad","No order","No order","No order","No order"
+93,109,"Brianna Mccarty","South Juan",2025-01-13,379.54400000000004,"Debit Card",379.54
+93,159,"Brianna Mccarty","South Juan",2024-08-09,243.99650000000005,"Credit Card",244
+93,177,"Brianna Mccarty","South Juan",2024-03-20,484.58,PayPal,484.58
+94,"No order","Matthew Anderson DVM","North Adamburgh","No order","No order","No order","No order"
+95,"No order","Christopher James","East Thomasfort","No order","No order","No order","No order"
+96,123,"Shari Sanders","West Johnchester",2024-10-18,218.18,PayPal,218.18
+97,"No order","Laura Bailey",Smithtown,"No order","No order","No order","No order"
+98,"No order","Christina Martinez MD","North Lynntown","No order","No order","No order","No order"
+99,"No order","Olivia Acevedo",Tannerborough,"No order","No order","No order","No order"
+100,184,"Christopher Martinez",Thomaston,2024-05-28,328.7,PayPal,328.7

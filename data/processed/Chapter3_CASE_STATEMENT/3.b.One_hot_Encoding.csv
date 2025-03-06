@@ -1,0 +1,11 @@
+customer_id,payment_method,encode_credit_card,encode_paypal,encode_debit_card
+2,"Debit Card",0,0,1
+2,"Credit Card",1,0,0
+3,"Debit Card",0,0,1
+3,"Debit Card",0,0,1
+4,PayPal,0,1,0
+4,PayPal,0,1,0
+4,PayPal,0,1,0
+7,"Credit Card",1,0,0
+7,"Credit Card",1,0,0
+7,PayPal,0,1,0

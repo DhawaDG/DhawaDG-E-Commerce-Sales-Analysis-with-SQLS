@@ -1,0 +1,21 @@
+customer_id,name,age,gender,city,signup_date,order_id,customer_id,order_date,total_amount,payment_method
+68,"Kristopher Stone",40,Female,Jillchester,2024-08-26,101,68,2024-06-03,348.98,"Credit Card"
+18,"Justin Ruiz",42,Male,Hernandezview,2024-05-29,102,18,2024-02-28,431.86,PayPal
+59,"Kathy King",64,Male,"New Latasha",2025-02-05,103,59,2024-12-09,330.4,"Debit Card"
+16,"Erik Ellison",42,Female,"Port Johnhaven",2024-02-02,104,16,2024-10-06,121.79,PayPal
+56,"Christina Duncan",45,Male,"New Arianahaven",2024-03-20,105,56,2024-06-23,248.73,"Credit Card"
+2,"Melissa Armstrong",53,Male,"Port Jamesport",2024-03-13,106,2,2024-12-01,326.65,"Debit Card"
+61,"Lynn Barrett",32,Female,"South Douglasfurt",2023-09-14,107,61,2024-12-07,408.08,"Credit Card"
+82,"Gina Nelson",18,Female,"North Carmen",2023-06-23,108,82,2025-02-25,312.95,"Credit Card"
+93,"Brianna Mccarty",38,Female,"South Juan",2023-08-05,109,93,2025-01-13,345.04,"Debit Card"
+77,"Leslie Hurley",59,Male,Stephanieville,2024-04-11,110,77,2024-07-21,273.83,PayPal
+83,"Elijah Ortiz",55,Female,"West Hannah",2024-06-19,111,83,2024-09-29,347.85,"Debit Card"
+47,"Michael Lara",38,Male,"Port Sarah",2023-09-05,112,47,2024-07-23,111.83,"Credit Card"
+81,"Thomas Davidson",51,Male,Joseburgh,2024-06-12,113,81,2024-07-30,234.53,"Credit Card"
+60,"Glenn Miller",27,Female,"West Cassandra",2023-08-08,114,60,2024-11-28,372.35,PayPal
+44,"Jordan Roberts",41,Male,"New Jonathan",2024-03-23,115,44,2024-12-31,334.24,PayPal
+21,"Jose Simon",18,Female,"West James",2023-08-21,116,21,2025-02-18,64.91,PayPal
+72,"Jeffrey Salazar",37,Male,Gregoryborough,2023-09-10,117,72,2024-06-04,239.97,"Debit Card"
+75,"Haley Simmons",63,Female,"East David",2024-10-05,118,75,2024-07-20,196.14,"Debit Card"
+42,"Chad Turner",64,Female,"East Stephanie",2023-09-08,119,42,2024-08-30,275.8,"Debit Card"
+64,"Jacob Sims",45,Male,Carterfort,2023-04-18,120,64,2024-09-28,60.18,"Debit Card"

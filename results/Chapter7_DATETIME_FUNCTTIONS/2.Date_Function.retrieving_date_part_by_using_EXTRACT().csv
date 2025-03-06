@@ -1,0 +1,4 @@
+start_date_time,mkt_start_year,mkt_start_month,mkt_start_day,mkt_start_hr,mkt_start_min
+"2023-10-01 08:00:00",2023,10,1,8,0
+"2023-10-02 09:00:00",2023,10,2,9,0
+"2023-10-03 10:00:00",2023,10,3,10,0

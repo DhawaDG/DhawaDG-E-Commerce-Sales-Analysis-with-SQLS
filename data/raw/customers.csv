@@ -1,0 +1,101 @@
+customer_id,name,age,gender,city,signup_date
+1,Shannon Conley,27,Female,Port Jamiestad,2024-07-24
+2,Melissa Armstrong,53,Male,Port Jamesport,2024-03-13
+3,Todd Harris,34,Female,Lake Isabellamouth,2024-03-12
+4,Teresa Mccann,23,Female,Millsbury,2024-12-31
+5,Adam Morton,56,Male,Port Johnbury,2023-07-25
+6,Cynthia Moreno,54,Male,Ellisland,2023-08-21
+7,Heather Morton,51,Female,Shieldsview,2023-08-30
+8,Matthew Hernandez,41,Male,Garyfurt,2024-03-10
+9,David Gomez Jr.,49,Female,New Jasonton,2023-11-10
+10,Martha Spence,42,Male,Butlershire,2023-03-22
+11,Kelly Ford,32,Female,New Andrewfort,2023-04-29
+12,Michael Gutierrez,20,Female,New Sherimouth,2024-02-27
+13,Brittany Martin,37,Male,Donaldsonfurt,2023-11-02
+14,Tracey Mccoy,52,Female,Brownport,2023-11-19
+15,Cynthia Sutton DVM,45,Male,Powersberg,2023-05-30
+16,Erik Ellison,42,Female,Port Johnhaven,2024-02-02
+17,Matthew Walton,28,Female,Danielburgh,2024-03-15
+18,Justin Ruiz,42,Male,Hernandezview,2024-05-29
+19,Maria Freeman DDS,44,Female,Port Evan,2024-09-23
+20,James Weiss,21,Female,Morrisonborough,2024-06-16
+21,Jose Simon,18,Female,West James,2023-08-21
+22,Margaret Ross,53,Female,Rachelmouth,2023-03-29
+23,Kristy Stewart,32,Female,South Mark,2024-11-19
+24,Aaron Woods,56,Female,Lake Jamestown,2023-11-20
+25,Nancy Jones,25,Male,New Alexandraland,2023-05-11
+26,Kristen Wang,25,Male,West Cheryl,2024-06-26
+27,Guy Shaw,44,Female,East Michellefurt,2023-09-18
+28,Oscar Smith,42,Male,New Jamie,2023-09-26
+29,Evan Wilson,62,Male,East Aaronfurt,2023-03-17
+30,Jennifer Smith,49,Male,Tiffanystad,2023-10-16
+31,Danielle Bass,52,Female,South Gregorytown,2023-04-27
+32,Ray Hammond,18,Male,North Elizabeth,2023-06-15
+33,John Adams,26,Male,Perrytown,2024-10-20
+34,Brandy Woods,38,Female,North Matthewport,2023-12-05
+35,Helen Diaz,35,Male,Lake Johnburgh,2023-04-29
+36,Julia Brown,64,Male,Port Travis,2024-12-09
+37,William Richard,29,Male,Wendyfurt,2024-03-06
+38,William Wilson,62,Female,Camposview,2024-11-27
+39,William Smith,24,Female,West Gail,2024-02-28
+40,Michael Nelson,32,Female,Jefferyhaven,2023-11-26
+41,Brad Bishop,18,Male,Port Arthur,2024-07-21
+42,Chad Turner,64,Female,East Stephanie,2023-09-08
+43,Christine Garcia,50,Female,South Andrew,2024-01-11
+44,Jordan Roberts,41,Male,New Jonathan,2024-03-23
+45,Steven Harris,30,Male,Silvatown,2025-01-29
+46,Joseph Barrett,57,Male,South Haleyview,2023-04-24
+47,Michael Lara,38,Male,Port Sarah,2023-09-05
+48,Joanne Austin,20,Female,East Amy,2025-01-05
+49,Julie Davis,58,Female,Port Lorimouth,2023-07-14
+50,Christopher Lowery,59,Male,East Valerie,2023-07-20
+51,Jason Myers,29,Female,New Matthew,2025-02-18
+52,Carla Carlson,60,Male,New George,2024-02-10
+53,Lynn Reese,38,Female,South Ryan,2024-04-20
+54,Joseph Molina,19,Female,North Katelyn,2023-09-19
+55,Erica Howe,35,Female,New Juliaton,2023-12-12
+56,Christina Duncan,45,Male,New Arianahaven,2024-03-20
+57,Troy Martinez,24,Female,West Jeffton,2024-04-27
+58,Deborah Hill,58,Female,West Jessica,2025-01-01
+59,Kathy King,64,Male,New Latasha,2025-02-05
+60,Glenn Miller,27,Female,West Cassandra,2023-08-08
+61,Lynn Barrett,32,Female,South Douglasfurt,2023-09-14
+62,Cynthia Young,22,Female,East Lauren,2023-09-28
+63,Jennifer Thornton,51,Female,Christopherchester,2024-12-12
+64,Jacob Sims,45,Male,Carterfort,2023-04-18
+65,Frank Benton,51,Female,Port Jacqueline,2024-05-24
+66,Tamara Hayes,43,Male,New Christophermouth,2024-07-24
+67,Steven Edwards,24,Female,West Ruth,2023-05-20
+68,Kristopher Stone,40,Female,Jillchester,2024-08-26
+69,Gloria Howard,40,Male,Darlenetown,2023-07-19
+70,Kimberly Mason,21,Female,Hoffmanport,2023-04-23
+71,Jacqueline Taylor,42,Female,Melissabury,2023-06-03
+72,Jeffrey Salazar,37,Male,Gregoryborough,2023-09-10
+73,Amber Parker,60,Male,Melissaborough,2024-06-19
+74,Tonya Williams,65,Female,Aaronmouth,2023-07-18
+75,Haley Simmons,63,Female,East David,2024-10-05
+76,Karen Walton,51,Female,Lake Katelyn,2024-08-30
+77,Leslie Hurley,59,Male,Stephanieville,2024-04-11
+78,Gabrielle Dickson,29,Female,New Joshua,2024-03-06
+79,Nathan Moore,61,Male,Karenmouth,2023-12-12
+80,Rachel Pierce,35,Male,Alexanderside,2024-07-03
+81,Thomas Davidson,51,Male,Joseburgh,2024-06-12
+82,Gina Nelson,18,Female,North Carmen,2023-06-23
+83,Elijah Ortiz,55,Female,West Hannah,2024-06-19
+84,Anna Henry,50,Male,Port Aaron,2024-02-21
+85,Wendy Roman,26,Female,South Rebecca,2024-11-21
+86,Barbara Garrett,52,Male,New Williamport,2023-12-11
+87,Michelle Hebert,54,Male,East Olivia,2024-05-31
+88,Keith Hernandez,56,Male,West Jonathan,2024-03-12
+89,Nathaniel Snow,57,Female,North Paige,2023-08-17
+90,Lori Beard,34,Male,Port Annette,2023-10-12
+91,Michael Robles,60,Male,East James,2023-03-04
+92,David Sanchez,31,Female,Lake Dariusstad,2024-07-15
+93,Brianna Mccarty,38,Female,South Juan,2023-08-05
+94,Matthew Anderson DVM,33,Male,North Adamburgh,2024-12-08
+95,Christopher James,30,Female,East Thomasfort,2024-05-19
+96,Shari Sanders,46,Female,West Johnchester,2023-09-22
+97,Laura Bailey,29,Male,Smithtown,2024-08-21
+98,Christina Martinez MD,28,Female,North Lynntown,2023-10-04
+99,Olivia Acevedo,48,Male,Tannerborough,2024-07-30
+100,Christopher Martinez,26,Female,Thomaston,2024-04-12

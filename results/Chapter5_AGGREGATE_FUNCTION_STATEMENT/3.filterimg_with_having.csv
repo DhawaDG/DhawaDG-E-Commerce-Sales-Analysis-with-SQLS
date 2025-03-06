@@ -1,0 +1,7 @@
+customer_id,name,total_amount,payment_method,total_bill_amount
+9,"David Gomez Jr.",458.36,"Debit Card",458.36
+48,"Joanne Austin",475.04,"Debit Card",475.04
+52,"Carla Carlson",457.73,"Credit Card",457.73
+79,"Nathan Moore",465.11,PayPal,465.11
+79,"Nathan Moore",467.01,"Credit Card",467.01
+93,"Brianna Mccarty",484.58,PayPal,484.58
