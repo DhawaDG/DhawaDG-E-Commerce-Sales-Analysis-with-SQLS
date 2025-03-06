@@ -5,9 +5,13 @@ This project demonstrates core MySQL concepts by analyzing an e-commerce sales d
 
 ## Project Structure
 E-Commerce-Sales-Analysis-with-SQL/
+
 ├── data/ # Contains raw and processed datasets
+
 ├── sql/ # SQL queries used for analysis
+
 ├── results/ # Results of SQL queries in CSV format
+
 ├── README.md # Project documentation
 
 
