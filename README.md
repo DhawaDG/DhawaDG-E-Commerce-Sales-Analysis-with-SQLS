@@ -14,18 +14,22 @@ E-Commerce-Sales-Analysis-with-SQL/
 
 ├── README.md # Project documentation
 
+├── requirement.txt #framework
+
 
 ## SQL Concepts Covered
-1. **Data Sources:** Exploring the dataset.
-2. **SELECT Statement:** Retrieving specific columns.
-3. **WHERE Clause:** Filtering data.
-4. **CASE Statements:** Categorizing data.
-5. **JOINs:** Combining data from multiple tables.
-6. **Aggregations:** Calculating totals, averages, etc.
-7. **Window Functions:** Ranking and partitioning data.
-8. **Date and Time Functions:** Analyzing time-based data.
-9. **Exploratory Data Analysis (EDA):** Identifying trends and patterns.
-10. **Building Analytical Datasets:** Preparing data for reporting.
+
+1. **SELECT Statement:** Retrieving specific columns.
+2. **WHERE Clause:** Filtering data.
+3. **CASE Statements:** Categorizing data.
+4. **JOINs:** Combining data from multiple tables.
+5. **Aggregations:** Calculating totals, averages, etc.
+6. **SUBQUERY:** Scalar,MRS,Correlated Subquery
+7. **Date and Time Functions:** Analyzing time-based data.
+8. **Window Functions:** Ranking and partitioning data.
+9. **CTEs,Temporary Table and View:** using reusable table
+10. **Exploratory Data Analysis (EDA):** Identifying trends and patterns.
+11. **Building Analytical Datasets:** Preparing data for reporting.
 
 ## Author
 Dhawa Dorje Ghising (DhawaDG)
